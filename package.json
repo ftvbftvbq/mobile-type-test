@@ -8,6 +8,10 @@
     "test": "jest"
   },
   "author": "lddinfo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lddinfo/mobile-type-test.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel": "^6.23.0",
