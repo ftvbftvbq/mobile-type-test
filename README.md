@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/lddinfo/mobile-type-test.svg?branch=master)](https://travis-ci.org/lddinfo/mobile-type-test)
 # 判断手机机型 
 ## Install
 ```shell
